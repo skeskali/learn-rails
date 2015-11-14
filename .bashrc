@@ -1,0 +1,5 @@
+export GMAIL_USERNAME="cecily.walker@gmail.com" 
+export GMAIL_PASSWORD="gink6ur8ul"
+export MAILCHIMP_API_KEY="f3a18d033da97c89a1b7526ed6cb4d1a-us9"
+export MAILCHIMP_LIST_ID="e9cb51741d"
+export OWNER_EMAIL="cecily.walker@gmail.com"
